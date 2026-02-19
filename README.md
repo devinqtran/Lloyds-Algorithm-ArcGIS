@@ -1,7 +1,7 @@
 # Lloyd’s Algorithm Optimization Tool for ArcGIS Pro
 
-![ArcGIS Pro](https://img.shields.io/badge/ArcGIS%20Pro-3.x-green)
-![Python](https://img.shields.io/badge/Python-3.x-yellow)
+![ArcGIS Pro](https://img.shields.io/badge/ArcGIS%20Pro-3.5.3-green)
+![Python](https://img.shields.io/badge/Python-3.14.0-yellow)
 ![License](https://img.shields.io/badge/License-MIT-lightgrey)
 
 <p align="center">
