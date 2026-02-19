@@ -1,12 +1,12 @@
 # Lloyd’s Algorithm Optimization Tool for ArcGIS Pro
 
-![ArcGIS Pro](https://img.shields.io/badge/ArcGIS%20Pro-3.x-green)
-![Python](https://img.shields.io/badge/Python-3.x-yellow)
+![ArcGIS Pro](https://img.shields.io/badge/ArcGIS%20Pro-3.5.3-green)
+![Python](https://img.shields.io/badge/Python-3.14.0-yellow)
 ![License](https://img.shields.io/badge/License-MIT-lightgrey)
 
-An automated spatial optimization tool that implements **Lloyd’s Algorithm** (Centroidal Voronoi Tessellation) to solve location-allocation problems within the ArcGIS Pro environment.
-
----
+<p align="center">
+  <img src="docs/images/lloyds_icon_voronoi.png" width="400" title="Lloyd's Algorithm Optimization">
+</p>
 
 ## 📌 Project Overview
 
